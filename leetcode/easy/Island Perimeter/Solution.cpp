@@ -51,6 +51,9 @@ int main() {
     int res = s->islandPerimeter(arr);
     cout << res ;
 
+
+    delete s;
+
     return 0;
 
 }

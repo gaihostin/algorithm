@@ -63,6 +63,9 @@ int main() {
     cout << res << endl;
 
 
+    delete s;
+
+
 
     return 0;
 }
