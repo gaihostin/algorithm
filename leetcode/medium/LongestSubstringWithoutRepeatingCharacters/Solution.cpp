@@ -33,6 +33,9 @@ int main() {
     cout << s->lengthOfLongestSubstring(str) << endl;
 
 
+    delete s;
+
+
 
     return 0;
 }
